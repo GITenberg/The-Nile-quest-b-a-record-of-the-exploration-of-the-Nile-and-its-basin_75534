@@ -1,0 +1,56 @@
+_repo: The-Nile-quest-b-a-record-of-the-exploration-of-the-Nile-and-its-basin_75534
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Bartholomew, J. G. (John George)
+    alias: Bartholomew, John George
+    birthdate: 1860
+    deathdate: 1920
+    gutenberg_agent_id: '40889'
+    url: http://www.gutenberg.org/2009/agents/40889
+    wikipedia: https://en.wikipedia.org/wiki/John_George_Bartholomew
+creator:
+  author:
+    agent_name: Johnston, Harry
+    aliases:
+    - Johnston, H.H.
+    - Johnston, Sir Harry Hamilton
+    - Johnston, Harry Hamilton
+    - Johnston, H. H. (Harry Hamilton)
+    - Johnston, Henry Hamilton
+    birthdate: 1858
+    deathdate: 1927
+    gutenberg_agent_id: '4771'
+    url: http://www.gutenberg.org/2009/agents/4771
+    wikipedia: https://en.wikipedia.org/wiki/Harry_Johnston
+  editor:
+    agent_name: Keltie, John Scott, Sir
+    alias: Keltie, Sir John Scott
+    birthdate: 1840
+    deathdate: 1927
+    gutenberg_agent_id: '49901'
+    url: http://www.gutenberg.org/2009/agents/49901
+    wikipedia: https://en.wikipedia.org/wiki/John_Scott_Keltie
+description: With illustrations from drawings and photographs by the author and others.
+gutenberg_issued: '2025-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75534'
+language: en
+pgterms:marc904: https://archive.org/details/nilequestrecordo00john
+pgterms:marc905: 20220830092659johnston
+pgterms:marc906: '1906'
+pgterms:marc907: gb
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bAlston Rivers, $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The story of exploration
+subjects:
+- !lcsh 'Nile River'
+- !lcc 'DT'
+- GITenberg
+title: 'The Nile quest : $b a record of the exploration of the Nile and its basin'
+url: http://www.gutenberg.org/ebooks/75534
